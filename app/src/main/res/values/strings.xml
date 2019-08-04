@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Movie Catalogue</string>
+	<string name="card_title">Movie Title</string>
+	<string name="rating">Rating</string>
+	<string name="voter">Voter</string>
+	<string name="card_content">Content</string>
+	<string name="play_trailer">Trailer</string>
+	<string name="share_movie">Share</string>
+	<string name="year">Movie Date</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
