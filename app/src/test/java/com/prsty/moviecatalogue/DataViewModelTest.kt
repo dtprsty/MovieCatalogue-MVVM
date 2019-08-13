@@ -1,5 +1,6 @@
-package com.prsty.moviecatalogue.ui
+package com.prsty.moviecatalogue
 
+import com.prsty.moviecatalogue.ui.DataViewModel
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull
 import org.junit.Before
